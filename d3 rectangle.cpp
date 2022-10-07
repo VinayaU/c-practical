@@ -11,7 +11,7 @@ public:
      //no-default constructor  
     Rectangle(float l) { length = l; width = l; }    
 
-    float area() {return length * width; } //return area
+    float area() {return length * width; } 
 
 
 private:
